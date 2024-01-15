@@ -8,7 +8,7 @@ import { ColumnType } from './utils/enums';
 
 function App() {
   return (
-    <main>
+    <main >
       <Heading
         fontSize={{ base: '4xl', sm: '5xl', md: '6xl' }}
         fontWeight="bold"
@@ -32,7 +32,8 @@ function App() {
             <Column column={ColumnType.COMPLET} />
           </SimpleGrid>
         </Container>
-      </DndProvider>
+      </DndProvider> 
+      
     </main>
   );
 }
