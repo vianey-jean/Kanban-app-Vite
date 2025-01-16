@@ -16,6 +16,7 @@ const ColumnColorScheme: Record<ColumnType, string> = {
   Faire: 'gray',
   'En Progress': 'blue',
   Bloquer: 'red',
+  TESTER: 'orange',
   COMPLET: 'green',
 };
 

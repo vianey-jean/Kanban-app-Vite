@@ -1,7 +1,7 @@
 {
   "name": "kanban-app-vite",
   "private": true,
-  "version": "4.1.3",
+  "version": "5.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -29,6 +29,7 @@ function App() {
             <Column column={ColumnType.A_FAIRE} />
             <Column column={ColumnType.EN_PROGRESS} />
             <Column column={ColumnType.BLOQUER} />
+            <Column column={ColumnType.TESTER} />
             <Column column={ColumnType.COMPLET} />
           </SimpleGrid>
         </Container>

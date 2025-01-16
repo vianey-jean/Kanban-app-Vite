@@ -32,11 +32,19 @@ function useTaskCollection() {
         color: 'red.300',
       },
     ],
+    TESTER: [
+      {
+        id: uuidv4(),
+        column: ColumnType.TESTER,
+        title: 'Tâche 4',
+        color: 'orange.300',
+      },
+    ],
     COMPLET: [
       {
         id: uuidv4(),
         column: ColumnType.COMPLET,
-        title: 'Tâche 4',
+        title: 'Tâche 5',
         color: 'green.300',
       },
     ],
